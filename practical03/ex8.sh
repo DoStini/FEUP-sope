@@ -1,0 +1,1 @@
+gcc -g -lpthread  ex9.c -o ex9.out
