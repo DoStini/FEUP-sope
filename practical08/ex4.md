@@ -1,0 +1,2 @@
+- When we write with printf, it will parse the integer into a string, so the ouput will be the actual number stored in the variable.
+- When we write as binary, it will write directly the data as bytes. What will happen is that it will write 4 bytes (sizeof(int)) and the terminal will try to interpret those 4 bytes as characters (separatelly)
